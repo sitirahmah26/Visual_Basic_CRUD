@@ -1,0 +1,11 @@
+D:\Visual Basic\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.exe.config
+D:\Visual Basic\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.exe
+D:\Visual Basic\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.pdb
+D:\Visual Basic\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.xml
+D:\Visual Basic\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.vbprojResolveAssemblyReference.cache
+D:\Visual Basic\Koneksi Database\Koneksi Database\obj\Debug\Koneksi_Database.Form1.resources
+D:\Visual Basic\Koneksi Database\Koneksi Database\obj\Debug\Koneksi_Database.Resources.resources
+D:\Visual Basic\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.vbproj.GenerateResource.Cache
+D:\Visual Basic\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.exe
+D:\Visual Basic\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.xml
+D:\Visual Basic\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.pdb
